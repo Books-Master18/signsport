@@ -1,10 +1,12 @@
-body{
+body {
     background-color: #f2f5f9;
     font-family: "Montserrat", sans-serif;
     font-family: 'Robota', sans-serif;
+}
 
-    .wrapper{
-
-
-    }
+.wrapper{
+    padding-left: 30px;
+    padding-right: 15px;
+    max-width: 1170px;
+    margin: 0 auto;
 }
